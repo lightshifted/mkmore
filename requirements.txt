@@ -1,0 +1,4 @@
+pandas==1.4.4
+jupyter==1.0.0
+torch==1.12.1
+matplotlib==3.5.3
